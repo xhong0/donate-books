@@ -23,7 +23,7 @@
 7. 《python cookbook（第二版）中文版》
 8. 《一站式学习C编程》
 9. 《Java编程思想（英文）》
-10. 《深入理解计算机系统》
+10. 《深入理解计算机系统》               ************      （已订出）
 11. 《Effective C++》
 12. 《C++ Primer》
 13. 《冈萨雷斯 数字图像处理（MATLAB版）》
@@ -57,7 +57,8 @@
     <tr><th>姓名</th><th>专业班级</th><th>书籍</th><th>状态</th><th>博客</th><td>Github</td></tr>
 </thead>
 <tbody>
-    <tr><td>郝佳</td><td>计科1001</td><td>Head First 设计模式（中文版）</td><td>预订</td><td><a href="http://blog.csdn.net/haojiahj">链接</a></td></tr>
+    <tr><td>郝佳</td><td>计科1001</td><td>Head First 设计模式（中文版）</td><td>预订</td><td><a href="http://blog.csdn.net/haojiahj">链接</a></td><td></td></tr>
+    <tr><td>谢峰</td><td>软件1103</td><td>深入理解计算机系统</td><td>预订</td><td><a href="http://xiefeng.sinaapp.com">链接</a></td><td><a href="https://github.com/xiefeng086">链接</a></td></tr>
 </tbody>
 </table>
 
