@@ -44,8 +44,10 @@
 
 ## 联系 ##
 
-email: kiddkai@gmail.com
-qq: 156789754
+需要图书的直接通过下面这两个联系方式跟我索取书籍
+
+* email: kiddkai@gmail.com
+* qq: 156789754
 
 ## 感谢 ##
 
