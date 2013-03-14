@@ -49,6 +49,18 @@
 * email: kiddkai@gmail.com
 * qq: 156789754
 
+
+## 状态 ##
+
+<table>
+<thead>
+    <tr><th>姓名</th><th>专业</th><th>书籍</th><th>状态</th><th>博客</th></tr>
+</thead>
+<tbody>
+    <tr><td>郝佳</td><td>计科1001</td><td>Head First 设计模式（中文版）</td><td></td><td>预订</td><td><a href="http://blog.csdn.net/haojiahj">链接</a></td></tr>
+</tbody>
+</table>
+
 ## 感谢 ##
 
 1. @红俊 在我不在学校的时候帮我清点书籍
