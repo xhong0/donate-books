@@ -61,7 +61,7 @@
 <tbody>
     <tr><td>郝佳</td><td>计科1001</td><td>Head First 设计模式（中文版）</td><td>预订</td><td><a href="http://blog.csdn.net/haojiahj">链接</a></td><td></td></tr>
     <tr><td>谢峰</td><td>软件1103</td><td>深入理解计算机系统</td><td>预订</td><td><a href="http://xiefeng.sinaapp.com">链接</a></td><td><a href="https://github.com/xiefeng086">链接</a></td></tr>
-    <tr><td>陈霄宇</td><td>计科0906</td><td>Python编程（第三版·英文影印版）(上下)</td><td>预订</td><td><a href="http://blog.sina.com.cn/chenxizhizivenus">链接</a></td><td></td></tr>
+    <tr><td>陈霄宇</td><td>计科0906</td><td>Python编程（第三版·英文影印版）(上下)</td><td>预订</td><td><a href="http://blog.sina.com.cn/chenxizhizivenus">链接</a></td><td><a href="https://github.com/XiaoxiaoSAMA">链接</a></td></tr>
 </tbody>
 </table>
 
