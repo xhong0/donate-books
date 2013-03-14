@@ -16,8 +16,8 @@
 
 ## 已有书籍（持续更新） ##
 
-1. 《Python编程（第三版·英文影印版）》（上）
-2. 《Python编程（第三版·英文影印版）》（下）
+1. 《Python编程（第三版·英文影印版）》（上）********      （已订出）
+2. 《Python编程（第三版·英文影印版）》（下）********      （已订出）
 3. 《松本行弘的程序世界》
 4. 《算法导论》
 5. 《Head First Java（中文版）》
@@ -61,6 +61,7 @@
 <tbody>
     <tr><td>郝佳</td><td>计科1001</td><td>Head First 设计模式（中文版）</td><td>预订</td><td><a href="http://blog.csdn.net/haojiahj">链接</a></td><td></td></tr>
     <tr><td>谢峰</td><td>软件1103</td><td>深入理解计算机系统</td><td>预订</td><td><a href="http://xiefeng.sinaapp.com">链接</a></td><td><a href="https://github.com/xiefeng086">链接</a></td></tr>
+    <tr><td>陈霄宇</td><td>计科0906</td><td>Python编程（第三版·英文影印版）(上下)</td><td>预订</td><td><a href="http://blog.sina.com.cn/chenxizhizivenus">链接</a></td><td></td></tr>
 </tbody>
 </table>
 
